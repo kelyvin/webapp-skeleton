@@ -1,4 +1,4 @@
-# webapp=skeleton
+# webapp-skeleton
 A basic webapp environment that sets up a basic webpack project
 
 ## Quick commands
